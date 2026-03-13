@@ -1,5 +1,4 @@
 import React, { useEffect, useMemo, useRef, useState } from "react";
-import "../styles/globals.css";
 
 const SHOTS = [
   { key: "front_straight", title: "Front Straight", purpose: "Centering + corners", tip: "צלם מלמעלה, ישר לחלוטין, עם כל הקלף בתוך המסגרת." },
